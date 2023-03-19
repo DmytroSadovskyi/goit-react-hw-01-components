@@ -4,10 +4,12 @@ export const Container = styled.div`
   background-color: gainsboro;
 
   margin-top: 20px;
+  margin-bottom: 40px;
   width: 250px;
   padding-top: 20px;
   box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px,
     rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+  border-radius: 5px;
 `;
 
 export const Description = styled.div`
