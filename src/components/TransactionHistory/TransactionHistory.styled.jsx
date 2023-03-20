@@ -2,6 +2,7 @@ import styled from '@emotion/styled';
 
 export const Table = styled.table`
   width: 500px;
+  margin-bottom: 20px;
   border-collapse: collapse;
   table-layout: fixed;
   box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px,
